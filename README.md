@@ -1,6 +1,11 @@
+### Name: JAYANI N
+
+### Register Number: 212224100025
+
+
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 08.05.2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +36,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/user-attachments/assets/fc75c779-1ac0-43f2-b90f-a4a63cb73667)
+
 
 ### Output:
+![image](https://github.com/user-attachments/assets/98f778d5-29aa-4332-8dfe-4811cb41f2d8)
 
 
-### Name:
-### Register Number:
+
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
